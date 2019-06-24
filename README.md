@@ -6,11 +6,11 @@ On command prompt, type: `node server.js`
 On your browser, run: `localhost:3000`
 
 This app allows it's users to add food items  saved inside the local MYSQL database.
-Upon entry to Burgers a user is shown a list of all the available items for purchase as shown below.
+Menu of all the available items for purchase as shown below.
 
 ![Scheme](pics/Pic1.png)
 #
-User can enter more items that they would like to add to the menu as below:
+Add a new burger to the menu as follows:
 
 ![Scheme](pics/Pic2.png)
 #
